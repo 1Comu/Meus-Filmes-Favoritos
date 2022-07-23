@@ -1,0 +1,31 @@
+#Descricao {
+  color: dimgrey;
+  text-align: center;
+}
+div {
+  color: #373737;
+}
+#Titulo {
+  text-align: center;
+}
+.Capas {
+  width: 395px;
+  height: auto;
+  border-radius: 10px;
+}
+.Redes-sociais {
+  width: 15px;
+  height: auto;
+}
+footer {
+  color: dimgray;
+  font-size: 10px;
+}
+ul.Social-media {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+img.Redes-sociais {
+  padding-top: 10px
+}
